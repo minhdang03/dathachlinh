@@ -88,7 +88,7 @@ export default function ProductList() {
         : null;
 
     return (
-        <div className="space-y-6 mx-32">
+        <div className="space-y-6">
             <div className="flex justify-center mb-4">
                 <input
                     type="text"
