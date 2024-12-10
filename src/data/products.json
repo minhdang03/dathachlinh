@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Đá Thạch Linh Aurora",
+      "price": 999000,
+      "description": "Đá Thạch Linh Aurora với thiết kế Double Terminated Quartz mang đến vẻ đẹp tinh tế, phù hợp làm trang trí hoặc phong thủy.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9666.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 2,
+      "name": "Đá Thạch Linh Celeste",
+      "price": 899000,
+      "description": "Đá Thạch Linh Celeste là sản phẩm Double Terminated Quartz trong suốt, biểu tượng của sự thanh khiết và sang trọng.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9668.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 3,
+      "name": "Đá Thạch Linh Elysia",
+      "price": 1099000,
+      "description": "Đá Thạch Linh Elysia sở hữu thiết kế Double Terminated Quartz độc đáo, mang lại cảm giác bí ẩn và cuốn hút.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9669.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 4,
+      "name": "Đá Thạch Linh Aria",
+      "price": 759000,
+      "description": "Đá Thạch Linh Aria, một Double Terminated Quartz nhỏ gọn, phù hợp làm quà tặng phong thủy ý nghĩa.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9677.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 5,
+      "name": "Đá Thạch Linh Lyra",
+      "price": 1259000,
+      "description": "Đá Thạch Linh Lyra với vẻ đẹp mạnh mẽ từ Double Terminated Quartz, là lựa chọn hoàn hảo cho những ai yêu thích sự độc đáo.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9678.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 6,
+      "name": "Đá Thạch Linh Nova",
+      "price": 679000,
+      "description": "Đá Thạch Linh Nova, thiết kế Double Terminated Quartz nhỏ gọn nhưng đầy tinh tế, là biểu tượng của sự cân bằng.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9679.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 7,
+      "name": "Đá Thạch Linh Vega",
+      "price": 1399000,
+      "description": "Đá Thạch Linh Vega với thiết kế Double Terminated Quartz lớn, mang đến sự nổi bật và sang trọng cho không gian.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9680.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 8,
+      "name": "Đá Thạch Linh Astra",
+      "price": 799000,
+      "description": "Đá Thạch Linh Astra, Double Terminated Quartz với ánh sáng tự nhiên, là lựa chọn tuyệt vời cho trang trí phong thủy.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9681.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 9,
+      "name": "Đá Thạch Linh Stella",
+      "price": 1199000,
+      "description": "Đá Thạch Linh Stella với thiết kế độc đáo từ Double Terminated Quartz, mang lại vẻ đẹp hiện đại và thanh lịch.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9682.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 10,
+      "name": "Đá Thạch Linh Orion",
+      "price": 999000,
+      "description": "Đá Thạch Linh Orion, Double Terminated Quartz với họa tiết tinh tế, là biểu tượng của sự bền bỉ và phát triển.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9683.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 11,
+      "name": "Đá Thạch Linh Luna",
+      "price": 859000,
+      "description": "Đá Thạch Linh Luna với ánh sáng tự nhiên từ Double Terminated Quartz, mang lại sự tươi mới và thanh khiết.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9684.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 12,
+      "name": "Đá Thạch Linh Polaris",
+      "price": 1399000,
+      "description": "Đá Thạch Linh Polaris, thiết kế Double Terminated Quartz lớn, tỏa sáng trong mọi không gian trưng bày.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9686.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 13,
+      "name": "Đá Thạch Linh Andromeda",
+      "price": 1299000,
+      "description": "Đá Thạch Linh Andromeda với vẻ đẹp bí ẩn của Double Terminated Quartz, mang lại cảm giác mới lạ và đặc biệt.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9687.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    },
+    {
+      "id": 14,
+      "name": "Đá Thạch Linh Zenith",
+      "price": 1499000,
+      "description": "Đá Thạch Linh Zenith là sản phẩm Double Terminated Quartz cao cấp, biểu tượng của sự hoàn mỹ.",
+      "image": "/images/Double_Terminated_Quartz_Small/DSCF9688.jpg",
+      "category_id": "1",
+      "category": "Phong thủy"
+    }
+  ]
+}

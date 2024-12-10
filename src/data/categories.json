@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Hai đầu nhọn",
+      "slug": "double-terminated"
+    },
+    {
+      "id": "2",
+      "name": "Hình cầu",
+      "slug": "sphere"
+    },
+    {
+      "id": "3",
+      "name": "Một đầu nhọn",
+      "slug": "point"
+    }
+  ]
+}

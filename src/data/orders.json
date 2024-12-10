@@ -1,0 +1,42 @@
+{
+  "orders": [
+    {
+      "orderId": "16857392",
+      "orderDate": "2024-03-20T08:30:00Z",
+      "status": "completed",
+      "customerInfo": {
+        "name": "Nguyen Van A",
+        "phone": "0369523467",
+        "email": "nguyenvana@email.com",
+        "address": "123 Đường ABC, Quận 1, TP.HCM"
+      },
+      "orderItems": [
+        {
+          "productName": "Áo thun basic",
+          "quantity": 2,
+          "price": 199000
+        }
+      ],
+      "totalAmount": 398000
+    },
+    {
+      "orderId": "16857393",
+      "orderDate": "2024-03-21T10:15:00Z", 
+      "status": "pending",
+      "customerInfo": {
+        "name": "Tran Thi B",
+        "phone": "0369523467",
+        "email": "tranthib@email.com",
+        "address": "456 Đường XYZ, Quận 2, TP.HCM"
+      },
+      "orderItems": [
+        {
+          "productName": "Quần jean nam",
+          "quantity": 1,
+          "price": 499000
+        }
+      ],
+      "totalAmount": 499000
+    }
+  ]
+}
